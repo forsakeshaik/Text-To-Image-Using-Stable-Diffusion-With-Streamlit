@@ -1,11 +1,11 @@
 # Text-To-Image-Using-Stable-Diffusion
 Developed a machine learning model using Stable Diffusion from Hugging Face to generate high-quality images from text descriptions. Utilizes transformers and GANs for realistic synthesis. Built with PyTorch and optimized for performance, it's fine-tuned on diverse datasets. Ideal for creative and automated design applications.
 
-LOAD THESE FILES INTO A GOOGLE COLLAB NOTEBOOK
+Load these files into a google collab notebook
 
 **RUN FILE** :
-      THIS FILE IS TO INITIALIZE AND DOWNLOAD THE STREAMLIT ENVIRONMENT INTO YOUR SYSTEM. RUN THIS FILE IN YOUR COLLAB NOTEBOOK FIRST
+      This file is to initialize and download the streamlit environment into your system. Run this file in your collab notebook first
 
 **STREM FILE** :
-      THIS FILE CONTAINS THE CODE WITH THE STREMLIT INTEGRATION YOU CAN RUN THIS FILE AND GO BACK TO THE RUN FILE TO OPEN THE WEBPAGE THROUGH A LOCAL HOST.
+      This file contains the code with the stremlit integration you can run this file and go back to the run file to open the webpage through a local host.
 
